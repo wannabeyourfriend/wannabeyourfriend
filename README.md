@@ -8,7 +8,7 @@
 
 ##### Course-Assignments&Lab-Index
 
-> PA and Lab implementations for courses during school or self-study.
+> PA, homework and Lab implementations for courses during school or self-study.
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
