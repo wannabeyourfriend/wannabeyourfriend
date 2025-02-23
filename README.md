@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @wannabeyourfriend
-- 👀 I’m a second-year students@THU with a major of Basic Science of Mathematics and Physics（数理基础科学）, but I'm interested in ML, CV and robotics.
-- 🌱 I’m currently learning/self-learning deep learning, machine learning, computer vision, computer graphics.
-- 💞️ I’m looking for opportunities to participate in reserch.
+- 🌱 I’m a second-year students@THU with a major of Basic Science of Mathematics and Physics（数理基础科学, and a minor of computer science.
+- 😄 I'm interested in ML, CV and robotics.
+- 💞️ I’m currently learning/self-learning deep learning, machine learning, computer vision, computer graphics.
+- 👀 I’m looking for opportunities to participate in reserch.
 - 📫 How to reach me. email:`wang-zx23@mails.tsinghua.edu.cn`
-- 😄 Pronouns: ...
+- 😄 I look forward to communicating and connecting with any students or professors related to this field. Feel free to reach out to me anytime!
 - ⚡ Fun fact: ...
 
 ##### Computer Science related Course-Assignments-Index
