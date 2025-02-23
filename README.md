@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-##### Course-Assignments&Lab-Index
+##### Computer Science related Course-Assignments-Index
 
 > PA, homework and Lab implementations for courses during school or self-study.
 
