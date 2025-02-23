@@ -19,7 +19,7 @@
 | **基于Linux的C++<br />Linux-based C++**            | 2024 Summer | [**[THU-CST-LinuxCPP-2024summer](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] |
 | **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [[**THU-CST-FOP-2024fall**](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)] |
-| **离散数学(1)<br />Discrete Mathematics (1)**                | 2024 Fall   | [**[THU-CST-DM1-2024fall](https://github.com/wannabeyourfriend/THU-CST-DM1-2024fall)**] |
+| **离散数学(1)<br />Discrete Mathematics (1)**                | 2024 Fall   | [**[THU-CST-DiscreteMath-2024-2025](https://github.com/wannabeyourfriend/THU-CST-DiscreteMath-2024-2025)**] |
 | **数据结构与算法(Python)<br />Data Structures and Algorithms (Python)** | 2025 Winter | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
 
 
