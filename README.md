@@ -14,7 +14,7 @@
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| **计算机科学基础**<br />Fundamentals of Computer Science**   | 2023 Autum   |[**[THU-CST-FCS-2023fall](https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall)**] |
+| **计算机科学基础**<br />Fundamentals of Computer Science**   | 2023 fall   |[**[THU-CST-FCS-2023fall](https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall)**] |
 | **计算机程序设计基础<br />Introduction to Programming**      | 2024 Spring | [**[THU-CST-ICP-2024spring](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**] |
 | **基于Linux的C++<br />Linux-based C++**            | 2024 Summer | [**[THU-CST-LinuxCPP-2024summer](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] |
 | **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
