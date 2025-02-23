@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wannabeyourfriend
 - 🌱 I’m a second-year students@THU with a major of Basic Science of Mathematics and Physics（数理基础科学）, and a minor of computer science. I'm interested in ML, CV and robotics.
 - 💞️ I’m currently learning/self-learning deep learning, machine learning, computer vision, computer graphics.
-- 👀 I’m looking for opportunities to participate in reserch on machine learning, computer vision, embodied AI and so on ...
+- 👀 I’m looking for opportunities to participate in reserch on ML, CV, AIGC, embodied AI and so on ...
 - 📫 How to reach me. email:`wang-zx23@mails.tsinghua.edu.cn`
 - 😄 I look forward to communicating and connecting with any students or professors with background related to AI. Feel free to reach out to me anytime!
 - Fun fact1. I play instruments and am a saxophonist in the band THUMB. ☆*:.｡.o(≧▽≦)o.｡.:*☆ 
