@@ -4,8 +4,8 @@
 - 💞️ I’m currently learning/self-learning deep learning, machine learning, computer vision, computer graphics.
 - 👀 I’m looking for opportunities to participate in reserch.
 - 📫 How to reach me. email:`wang-zx23@mails.tsinghua.edu.cn`
-- 😄 I look forward to communicating and connecting with any students or professors related to this field. Feel free to reach out to me anytime!
-- ⚡ Fun fact: ...
+- 😄 I look forward to communicating and connecting with any students or professors with background related to AI. Feel free to reach out to me anytime!
+- ⚡ Fun fact: I play instruments and am a saxophonist in the band THUMB. I enjoy sports and cats!
 
 ##### Computer Science related Course-Assignments-Index
 
