@@ -4,9 +4,9 @@
 - 👀 I’m looking for opportunities to participate in reserch on machine learning, computer vision, embodied AI and so on ...
 - 📫 How to reach me. email:`wang-zx23@mails.tsinghua.edu.cn`
 - 😄 I look forward to communicating and connecting with any students or professors with background related to AI. Feel free to reach out to me anytime!
-- ☆*:.｡.o(≧▽≦)o.｡.:*☆ Fun fact1. I play instruments and am a saxophonist in the band THUMB.
-- 😄 Fun fact2. I enjoy sports and cats!
-- (灬º‿º灬)♡Fun fact3. I have not attended the third year of high school. Although I was directly admitted to university through a physics competition in high school, I’m not exactly a big fan of physics now.
+- Fun fact1. I play instruments and am a saxophonist in the band THUMB. ☆*:.｡.o(≧▽≦)o.｡.:*☆ 
+- Fun fact2. I enjoy sports and cats! 😄 
+- Fun fact3. I have not attended the third year of high school. Although I was directly admitted to university through a physics competition in high school, I’m not exactly a big fan of physics now. (灬º‿º灬)♡
 
 ##### Computer Science related Course-Assignments-Index
 
