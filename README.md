@@ -11,9 +11,11 @@
 ##### Computer Science related Course-Assignments-Index
 
 > Notes, Labs, projects for AI courses.
+
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
 
+>Notes, Labs, projects for CS courses.
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
