@@ -26,7 +26,7 @@
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [[**THU-CST-FOP-2024fall**](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)] |
 | **离散数学<br />Discrete Mathematics**                | 2024-2025   | [**[THU-CST-DiscreteMath-2024-2025](https://github.com/wannabeyourfriend/THU-CST-DiscreteMath-2024-2025)**] |
 | **统计推断<br />Statistical Inference**                    | 2024 Fall | [**[THU-TCSS-SI-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**] |
-| **数据结构与算法(Python)<br />Data Structures and Algorithms** | 2025 | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
+| **数据结构与算法<br />Data Structures and Algorithms** | 2025 | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
 
 
 
