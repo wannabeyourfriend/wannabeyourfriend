@@ -8,7 +8,7 @@
 - Fun fact2. I enjoy sports and cats! 😄 My favorite movie is Interstellar (2014), directed by Christopher Nolan. The theme song "Cornfield Chase" is also one of my favorite piano pieces.
 - Fun fact3. I have not attended the third year of high school. Although I was directly admitted to university through a physics competition in high school, I’m not exactly a big fan of physics now. (灬º‿º灬)♡
 
-##### Computer Science related Course-Assignments-Index
+##### Related Course-Assignments and projects Index
 
 > Notes, Labs, projects for AI courses.
 
