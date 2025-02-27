@@ -14,12 +14,13 @@
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| **机器学习<br />Machine Learning**                            | 2024 Fall | ---|
+| **机器学习<br />Machine Learning**                            | N/A | ---|
 | **深度学习<br />Deep Learning**                               | 2025 Spring  | --- |
 | **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | --- |
 | **计算机视觉<br />Advanced Computer Vision**                   | 2025 Spring | --- |
 | **三维视觉计算<br />3D Visual Computing**                      | 2025 Spring | --- | 
 | **计算机图形学<br />Fundamentals of Computer Graphics**        | 2025 Spring | --- |
+| **人工智能导论<br />Introduction to Artificial Intelligence**  | 2025 Spring | --- |
 
 >Notes, Labs, projects for CS basic courses.
 
@@ -33,7 +34,7 @@
 | **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 2025 Spring | --- |
 | **离散数学<br />Discrete Mathematics**                | 2024-2025   | [**[THU-CST-DiscreteMath-2024-2025](https://github.com/wannabeyourfriend/THU-CST-DiscreteMath-2024-2025)**] |
 | **统计推断<br />Statistical Inference**                    | 2024 Fall | [**[THU-TCSS-SI-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**] |
-| **数据结构与算法<br />Data Structures and Algorithms** | 2025 | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
+| **数据结构与算法<br />Data Structures and Algorithms** | N/A | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
 
 
 
