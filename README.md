@@ -17,10 +17,12 @@
 | **机器学习<br />Machine Learning**                            | N/A | ---|
 | **深度学习<br />Deep Learning**                               | 2025 Spring  | --- |
 | **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | --- |
-| **计算机视觉<br />Advanced Computer Vision**                   | 2025 Spring | --- |
+| **计算机视觉<br />Computer Vision**                            | 2025 Spring | --- |
 | **三维视觉计算<br />3D Visual Computing**                      | 2025 Spring | --- | 
-| **计算机图形学<br />Fundamentals of Computer Graphics**        | 2025 Spring | --- |
+| **计算机图形学<br />Computer Graphics**                        | 2025 Spring | --- |
+| **具身智能导论<br />** | N/A| ---|
 | **人工智能导论<br />Introduction to Artificial Intelligence**  | 2025 Spring | --- |
+
 
 >Notes, Labs, projects for CS basic courses.
 
