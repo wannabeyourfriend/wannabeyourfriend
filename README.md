@@ -14,7 +14,7 @@
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| **机器学习<br />Machine Learning**                            | N/A | [**[THU-SS-IIIS-ML]([https://github.com/wannabeyourfriend/ML](https://github.com/wannabeyourfriend/THU-IIIS-SS-ML-2024fall-self-learn))**]|
+| **机器学习<br />Machine Learning**                            | N/A | [**[THU-SS-IIIS-ML](https://github.com/wannabeyourfriend/THU-IIIS-SS-ML-2024fall-self-learn)**]|
 | **深度学习<br />Deep Learning**                               | 2025 Spring  | --- |
 | **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | --- |
 | **计算机视觉<br />Computer Vision**                            | 2025 Spring | --- |
