@@ -33,7 +33,7 @@
 | **基于Linux的C++<br />Linux-based C++**            | 2024 Summer | [**[THU-CST-LinuxCPP-2024summer](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] |
 | **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [[**THU-CST-FOP-2024fall**](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)] |
-| **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 2025 Spring | --- |
+| **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 2025 Spring | [**[THU-CST-OOP-2025spring](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**] |
 | **离散数学<br />Discrete Mathematics**                | 2024-2025   | [**[THU-CST-DiscreteMath-2024-2025](https://github.com/wannabeyourfriend/THU-CST-DiscreteMath-2024-2025)**] |
 | **统计推断<br />Statistical Inference**                    | 2024 Fall | [**[THU-TCSS-SI-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**] |
 | **数据结构与算法<br />Data Structures and Algorithms** | N/A | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
