@@ -19,7 +19,7 @@
 | **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | [**[THU-IIIS-DRL](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**] |
 | **计算机视觉<br />Computer Vision**                            | 2025 Spring | [**[THU-EE-IIIS-CV](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] |
 | **三维视觉计算<br />3D Visual Computing**                      | 2025 Spring | --- | 
-| **计算机图形学<br />Computer Graphics**                        | 2025 Spring | --- |
+| **计算机图形学<br />Computer Graphics**                        | 2025 Spring | [**[THU-CST-CG](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**] |
 | **具身智能导论<br />Introduction to Embodied Artificial Intelligence** | N/A| ---|
 | **人工智能导论<br />Introduction to Artificial Intelligence**  | 2025 Spring | --- |
 | **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
