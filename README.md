@@ -10,7 +10,7 @@
 
 ##### Related Course-Assignments and projects Index
 
-> Notes, Labs, projects for AI-related courses.
+> Notes, Labs, projects for major courses
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
@@ -22,7 +22,7 @@
 | **计算机图形学<br />Computer Graphics**                        | 2025 Spring | --- |
 | **具身智能导论<br />Introduction to Embodied Artificial Intelligence** | N/A| ---|
 | **人工智能导论<br />Introduction to Artificial Intelligence**  | 2025 Spring | --- |
-
+| **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
 
 >Notes, Labs, projects for CS basic courses.
 
@@ -31,7 +31,6 @@
 | **计算机科学基础<br />Fundamentals of Computer Science**   | 2023 Fall   |[**[THU-CST-FCS-2023fall](https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall)**] |
 | **计算机程序设计基础<br />Introduction to Programming**      | 2024 Spring | [**[THU-CST-ICP-2024spring](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**] |
 | **基于Linux的C++<br />Linux-based C++**            | 2024 Summer | [**[THU-CST-LinuxCPP-2024summer](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] |
-| **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [[**THU-CST-FOP-2024fall**](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)] |
 | **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 2025 Spring | [**[THU-CST-OOP-2025spring](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**] |
 | **离散数学<br />Discrete Mathematics**                | 2024-2025   | [**[THU-CST-DiscreteMath-2024-2025](https://github.com/wannabeyourfriend/THU-CST-DiscreteMath-2024-2025)**] |
