@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @wannabeyourfriend
-- 🌱 I’m a second-year students@THU with a major of Basic Science of Mathematics and Physics（数理基础科学）, and a minor of computer science. I'm interested in ML, CV and robotics.
-- 💞️ I’m currently learning/self-learning deep learning, machine learning, computer vision, computer graphics.
-- 👀 I’m looking for opportunities to participate in reserch on ML, CV, AIGC, embodied AI and so on ...
-- 📫 How to reach me. email:`wang-zx23@mails.tsinghua.edu.cn`
-- 😄 I look forward to communicating and connecting with any students or professors with background related to AI. Feel free to reach out to me anytime!
+- 🌱 I’m a second-year students@THU pursuing an undergraduate degree of a major in Basic Science of Mathematics and Physics(主修数理基础科学) and a minor of Computer Science and Technology(辅修计算机科学与技术). I'm interested in Computer Vision, Robotics and Embodied Artificial Intelligence.
+- 💞️ I’m currently learning ML, DL, RL, CG, CV. You can clearly find my ongoing coursework, projects, and labs in the repository below. I recently joined the Tinker service robot development team ![tinker@furoc](https://github.com/tinkerfuroc) of Tsinghua University's Future Robotics Society, and will be involved in the **vision** development of robots.
+- 👀 I’m looking for opportunities to participate in reserch on Computer Vision and Embodied AI.
+- 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
+- 😄 I look forward to communicating with anyone interested in AI.
 - Fun fact1. I play instruments and am a saxophonist in the band THUMB. ☆*:.｡.o(≧▽≦)o.｡.:*☆ 
 - Fun fact2. I enjoy sports and cats! 😄 My favorite movie is Interstellar (2014), directed by Christopher Nolan. The theme song "Cornfield Chase" is also one of my favorite piano pieces.
-- Fun fact3. I have not attended the third year of high school. Although I was directly admitted to university through a physics competition in high school, I’m not exactly a big fan of physics now. (灬º‿º灬)♡
+
 
 ##### Related Course-Assignments and projects Index
 
