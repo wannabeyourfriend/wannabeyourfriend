@@ -36,7 +36,7 @@
 | **离散数学（1）<br />Discrete Mathematics (1)**                | 2024 Fall   | [**[THU-CST-DM1-2024fall](https://github.com/wannabeyourfriend/THU-CST-DM1-2024fall)**] |
 | **离散数学（2）<br />Discrete Mathematics (2)**                | 2025 Spring | [**[THU-CST-DM2-2025spring](https://github.com/wannabeyourfriend/THU-CST-DM2-2025spring)**]
 | **数据结构与算法<br />Data Structures and Algorithms** | N/A | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] |
-| **初等概率论<br />Elementary Probability Theory** | 2024 Fall | [**[THU-TCSS-Prob-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-Prob-2024fall)**]
+| **初等概率论<br />Elementary Probability Theory** | 2024 Fall | [**[THU-TCSS-PROB-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-Prob-2024fall)**]
 | **统计推断<br />Statistical Inference**                    | 2024 Fall | [**[THU-TCSS-SI-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**] |
 
 
