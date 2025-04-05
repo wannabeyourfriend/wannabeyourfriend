@@ -10,7 +10,7 @@
 
 ##### Related Course-Assignments and projects Index
 
-> Notes, Labs, projects for major courses
+> Notes, Labs, projects for AI related courses
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
@@ -24,7 +24,7 @@
 | **人工智能导论<br />Introduction to Artificial Intelligence**  | 2025 Spring | [**[THU-CST-IAI-2025spring](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**] |
 | **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
 
->Notes, Labs, projects for CS basic courses.
+>Notes, Labs, projects for Math & CS courses.
 
 | Course Name                                                  | Time        | Repository Link                                              |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
