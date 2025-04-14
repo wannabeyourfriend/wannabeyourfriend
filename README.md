@@ -22,7 +22,7 @@
 | **计算机图形学<br />Computer Graphics**                        | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**] |
 | **具身智能<br />Embodied Artificial Intelligence** | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**] |
 | **人工智能<br />Artificial Intelligence**  | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**] |
-| **深度学习与图形学交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
+| **计图实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] |
 
 >Notes, Labs, projects for Math & CS courses.
 
