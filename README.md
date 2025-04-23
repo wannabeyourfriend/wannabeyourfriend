@@ -12,13 +12,13 @@
 
 > Notes, Labs, projects for AI related courses
 
-| Course Name                                                  | Time        | Repository Link                                              |
-| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| **深度学习<br />Deep Learning**                               | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**] |
-| **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**] |
-| **高等计算机视觉<br />Computer Vision**                            | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] |
-| **三维视觉计算<br />3D Visual Computing**                      | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**] | 
-| **计算机图形学基础<br />Computer Graphics**                        | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**] |
+| Course Name                                                  | Time        | Repository Link                                              | Final Project |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | --- |
+| **深度学习<br />Deep Learning**                               | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**] | 🚀 start |
+| **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**] | 🚀 start |
+| **高等计算机视觉<br />Computer Vision**                            | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | 🚀 start |
+| **三维视觉计算<br />3D Visual Computing**                      | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**] | 🚀 start |
+| **计算机图形学基础<br />Computer Graphics**                        | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**] | 🚀 start |
 | **具身导论<br />Embodied Artificial Intelligence** | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**] |
 | **机器学习<br />Machine Learning**                            | N/A | [**[THU-SS-IIIS-ML-2024fall](https://github.com/wannabeyourfriend/THU-IIIS-SS-ML-2024fall-self-learn)**]|
 | **人智导<br />Artificial Intelligence**  | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**] |
