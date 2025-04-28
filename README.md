@@ -12,7 +12,7 @@
 
 > Notes, Labs, projects for AI related courses
 
-| Course Name                                                  | Time        | Repository Link                                              | Final Project | Course Status |
+| Course Name                                                  | Time        | Repository Link                                              | Final Project | Course Status | PA&HW |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | ------------- | --------------|
 | **深度学习<br />Deep Learning**                               | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**] | 🚀 start | 
 | **深度强化学习<br />Deep Reinforcement Learning**              | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**] | 🚀 start |
@@ -22,7 +22,7 @@
 | **具身导论<br />Embodied Artificial Intelligence** | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**] |
 | **机器学习<br />Machine Learning**                            | N/A | [**[THU-SS-IIIS-ML-2024fall](https://github.com/wannabeyourfriend/THU-IIIS-SS-ML-2024fall-self-learn)**]|
 | **人智导<br />Artificial Intelligence**  | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**] |
-| **计图实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] | ✅ finished |
+| **计图实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**] | N/A |✅ finished |
 
 >Notes, Labs, projects for Math & CS courses.
 
@@ -34,8 +34,8 @@
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [[**THU-CST-FOP-2024fall**](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)] | ✅ finished |
 | **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 2025 Spring | [**[THU-CST-OOP-2025spring](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**] |
 | **离散数学（1）<br />Discrete Mathematics (1)**                | 2024 Fall   | [**[THU-CST-DM1-2024fall](https://github.com/wannabeyourfriend/THU-CST-DM1-2024fall)**] | ✅ finished |
-| **离散数学（2）<br />Discrete Mathematics (2)**                | 2025 Spring | [**[THU-CST-DM2-2025spring](https://github.com/wannabeyourfriend/THU-CST-DM2-2025spring)**] | 
-| **数据结构与算法<br />Data Structures and Algorithms** | N/A | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] | 
+| **离散数学（2）<br />Discrete Mathematics (2)**                | 2025 Spring | [**[THU-CST-DM2-2025spring](https://github.com/wannabeyourfriend/THU-CST-DM2-2025spring)**] | 🏗️ in progress |
+| **数据结构与算法<br />Data Structures and Algorithms** | N/A | [**[PKU-EECS-DSA-2025winter-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] | N/A
 | **初等概率论<br />Elementary Probability Theory** | 2024 Fall | [**[THU-TCSS-PROB-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-Prob-2024fall)**]| ✅ finished |
 | **统计推断<br />Statistical Inference**                    | 2024 Fall | [**[THU-TCSS-SI-2024fall](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**] | ✅ finished |
 
