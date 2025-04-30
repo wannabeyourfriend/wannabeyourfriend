@@ -14,14 +14,14 @@
 
 | Course Name                                                           | Time        | Repository Link                                                                                       | Final Project | PA&HW |
 | ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- | ------| 
-| **深度学习<br />Deep Learning**                                       | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | 🚀start | 🏗️remain PA2 |
-| **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | 🚀start | 🏗️remain PA4 |
+| **深度学习<br />Deep Learning**                                       | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | 🚀start | 🏗️remainPA2 |
+| **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | 🚀start | 🏗️remainPA4 |
 | **高等计算机视觉<br />Computer Vision**                               | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | 🚀start | ✅finished |
 | **三维视觉计算<br />3D Visual Computing**                             | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]         | 🚀start | ✅finished |
-| **计算机图形学基础<br />Computer Graphics**                           | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | 🚀start | 🏗️remain PA3 |
+| **计算机图形学基础<br />Computer Graphics**                           | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | 🚀start | ✅finished |
 | **具身导论<br />Embodied Artificial Intelligence**                    | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | 🏗️in progress |
 | **机器学习<br />Machine Learning**                                    | N/A | [**[THU-SS-IIIS-ML-2024fall](https://github.com/wannabeyourfriend/THU-IIIS-SS-ML-2024fall-self-learn)**]      | N/A | 🏗️in progress |
-| **人智导<br />Artificial Intelligence**                               | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | 🏗️in progress |
+| **人智导论<br />Artificial Intelligence**                               | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | 🏗️remainPA2 |
 | **计图实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A | ✅finished |
 
 >Notes, Labs, projects for Math & CS courses.
