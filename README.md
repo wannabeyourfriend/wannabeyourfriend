@@ -3,9 +3,8 @@
 - 💞️ I’m currently learning DL, RL, CG, CV. You can clearly find my ongoing coursework, projects, and labs in the repository below. I recently joined the Tinker service robot development team [tinker@furoc](https://github.com/tinkerfuroc) of Tsinghua University's Future Robotics Society, and will be involved in the **vision** development of robots.
 - 👀 I’m looking for opportunities to participate in reserch on Computer Vision and Embodied AI.
 - 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
-- 😄 I look forward to communicating with anyone interested in AI.
 - Fun fact1. I play instruments and am a saxophonist in the band [THUMB](https://space.bilibili.com/247771482). ☆*:.｡.o(≧▽≦)o.｡.:*☆ 
-- Fun fact2. I enjoy sports and cats! 😄 My favorite movie is Interstellar (2014), directed by Christopher Nolan. The theme song "Cornfield Chase" is also one of my favorite piano pieces.
+- Fun fact2. I enjoy sports and cats! 😄 My favorite movie is Interstellar (2014), directed by Christopher Nolan. The theme song "Cornfield Chase" is one of my favorite pieces.
 
 
 ##### Related Course-Assignments and projects Index
