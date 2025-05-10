@@ -14,7 +14,7 @@
 | Course Name                                                           | Time        | Repository Link                                                                                       | Final Project | PA&HW |
 | ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- | ------| 
 | **深度学习<br />Deep Learning**                                       | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | 🚀start | 🏗️PA2 |
-| **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | 🚀start | 🏗️PA4 |
+| **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | 🚀start | ✅finished |
 | **高等计算机视觉<br />Computer Vision**                               | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | 🚀start | ✅finished |
 | **三维视觉计算<br />3D Visual Computing**                             | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]         | 🚀start | ✅finished |
 | **计算机图形学基础<br />Computer Graphics**                           | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | 🚀start | ✅finished |
