@@ -18,6 +18,8 @@
 | **具身智能导论<br />Embodied Artificial Intelligence**                    | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | N/A
 | **人工智能导论<br />Artificial Intelligence**                               | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | ✅finished |
 | **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A | ✅finished |
+
+
 | Course Name                                                  | Time        | Repository Link                                              | Course Status |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | --- |
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [[**THU-CST-FOP-2024fall**](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)] | ✅finished |
