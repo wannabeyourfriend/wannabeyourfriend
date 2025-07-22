@@ -11,7 +11,7 @@
 | **高等计算机视觉<br />Computer Vision**                               | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | ✅finished | ✅finished |
 | **三维视觉计算<br />3D Visual Computing**                             | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]         | ✅finished  | ✅finished |
 | **计算机图形学基础<br />Computer Graphics**                           | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | ✅finished  | ✅finished |
-| **具身智能导论<br />Embodied Artificial Intelligence**                    | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | N/A
+| **具身智能导论<br />Embodied Artificial Intelligence**                    | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | ✅finished
 | **人工智能导论<br />Artificial Intelligence**                               | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | ✅finished |
 | **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A | ✅finished |
 
