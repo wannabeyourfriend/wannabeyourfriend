@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zixuan Wang
+- 👋 Hi, I’m Zixuan Wang. [Personal Page](https://wannabeyourfriend.github.io)
 - 🌱 I’m a second-year students@THU pursuing an undergraduate degree of a major in Basic Science of Mathematics and Physics and a minor of Computer Science and Technology. I'm interested in LLM, AGI and Robotics.
 - 💞️ I am a member of Tinker service robot development team [tinker@furoc](https://github.com/tinkerfuroc) belong to Tsinghua University's Future Robotics Club.
 - 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
