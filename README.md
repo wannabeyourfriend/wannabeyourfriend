@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @wannabeyourfriend
-- 🌱 I’m a second-year students@THU pursuing an undergraduate degree of a major in Basic Science of Mathematics and Physics(主修数理基础科学) and a minor of Computer Science and Technology(辅修计算机科学与技术). I'm interested in LLM, AGI and Robotics.
-- 💞️ I’m currently learning DL, RL, CG, CV. You can clearly find my ongoing coursework, projects, and labs in the repository below. I recently joined the Tinker service robot development team [tinker@furoc](https://github.com/tinkerfuroc) of Tsinghua University's Future Robotics Society, and will be involved in the **vision** development of robots.
-- 👀 I’m looking for opportunities to participate in reserch on Computer Vision and Embodied AI.
+- 🌱 I’m a second-year students@THU pursuing an undergraduate degree of a major in Basic Science of Mathematics and Physics and a minor of Computer Science and Technology. I'm interested in LLM, AGI and Robotics.
+- 💞️ I am a member of Tinker service robot development team [tinker@furoc](https://github.com/tinkerfuroc) belong to Tsinghua University's Future Robotics Club.
 - 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
-- Fun fact1. I play instruments and am a saxophonist in the band [THUMB](https://space.bilibili.com/247771482). ☆*:.｡.o(≧▽≦)o.｡.:*☆ 
-- Fun fact2. I enjoy sports and cats! 😄 My favorite movie is Interstellar (2014), directed by Christopher Nolan. The theme song "Cornfield Chase" is one of my favorite pieces.
-
-
+- course index:
 ##### Related Course-Assignments and projects Index
 | Course Name                                                           | Time        | Repository Link                                                                                       | Final Project | PA&HW |
 | ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- | ------| 
