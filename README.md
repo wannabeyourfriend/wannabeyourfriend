@@ -3,19 +3,19 @@
 - 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
 - course index:
 ##### Related Course-Assignments and projects Index
-| Course Name                                                           | Time        | Repository Link                                                                                       | Final Project | PA&HW |
+| Course Name                                                           | Time        | PA&HW                                                                                       | Project |
 | ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- | ------| 
-| **深度学习<br />Deep Learning**                                       | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | N/A | ✅ |
-| **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoReasoner)**] | ✅ |
-| **高等计算机视觉<br />Computer Vision**                               | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoHOI)**] | ✅ |
-| **三维视觉计算<br />3D Visual Computing**                             | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]         | [**[3Ddiffusion](https://github.com/wannabeyourfriend/3D-Visual-Computing-Project)**] | ✅ |
-| **计算机图形学基础<br />Computer Graphics**                           | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | [**[Jittor-Competition](https://github.com/wannabeyourfriend/Jitter-5th-human-skeleton-prediction-track)**]  | ✅ |
-| **具身智能导论<br />Embodied Artificial Intelligence**                | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | ✅ |
-| **人工智能导论<br />Artificial Intelligence**                               | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | ✅ |
-| **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A | ✅ |
+| **深度学习<br />Deep Learning**                                       | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | N/A | 
+| **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoReasoner)**] | 
+| **高等计算机视觉<br />Computer Vision**                               | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoHOI)**] | 
+| **三维视觉计算<br />3D Visual Computing**                             | 2025 Spring | [**[THU-IIIS-3DV-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]         | [**[3Ddiffusion](https://github.com/wannabeyourfriend/3D-Visual-Computing-Project)**] | 
+| **计算机图形学基础<br />Computer Graphics**                           | 2025 Spring | [**[THU-CST-CG-2025spring](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | [**[Jittor-Competition](https://github.com/wannabeyourfriend/Jitter-5th-human-skeleton-prediction-track)**]  | 
+| **具身智能导论<br />Embodied Artificial Intelligence**                | 2025spring | [**[PKU-EECS-EAI-2025spring](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | 
+| **人工智能导论<br />Artificial Intelligence**                               | 2025 Spring | [**[THU-CST-IAI-IIIS-ALP-2024-2025](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | 
+| **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 2024 Summer | [**[THU-CST-JTDL-2024summer](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A | 
 
 
-| Course Name                                                  | Time        | Repository Link                                              | Projects |
+| Course Name                                                  | Time        | Repository Link                                              | Project |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | --- |
 | **程序设计基础<br />Computer Programming Fundamentals**      | 2024 Fall   | [**[THU-CST-FOP-2024fall](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)**] | [**[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)**] |
 | **计算机程序设计基础<br />Introduction to Programming**      | 2024 Spring | [**[THU-CST-ICP-2024spring](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**] | [**[GameUNO](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)**] |
