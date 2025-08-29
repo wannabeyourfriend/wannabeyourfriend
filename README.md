@@ -1,33 +1,48 @@
-- 👋 Hi, I’m Zixuan Wang. [Personal Page](https://wannabeyourfriend.github.io)
-- 🌱 I’m a second-year students@THU pursuing an undergraduate degree of a major in Basic Science of Mathematics and Physics and a minor of Computer Science and Technology. I'm interested in LLM, AGI and Robotics.
-- 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
-- course index:
-##### Related Course-Assignments and projects Index
-| Course Name                                                           | Time        | PA&HW | Project
-| ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- |
-| **深度学习<br />Deep Learning**                                       | 25Spr  | [**[THU-DL-QZC-IIIS](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | N/A | 
-| **深度强化学习<br />Deep Reinforcement Learning**                     | 25Spr | [**[THU-IIIS-DRL](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoReasoner)**] | 
-| **高等计算机视觉<br />Computer Vision**                               | 25Spr | [**[THU-EE-PKU-EECS-CV](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoHOI)**] | 
-| **三维视觉计算<br />3D Visual Computing**                             | 25Spr | [**[THU-IIIS-3DV](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]         | [**[3Ddiffusion](https://github.com/wannabeyourfriend/3D-Visual-Computing-Project)**] | 
-| **计算机图形学基础<br />Computer Graphics**                           | 25Spr | [**[THU-CST-CG](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | [**[Jittor-Competition](https://github.com/wannabeyourfriend/Jitter-5th-human-skeleton-prediction-track)**]  | 
-| **具身智能导论<br />Embodied Artificial Intelligence**                | 25Spr | [**[PKU-EECS-EAI](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | 
-| **人工智能导论<br />Artificial Intelligence**                               | 2025Spr | [**[THU-CST-IAI-IIIS-AIP](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | 
-| **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 24Sum | [**[THU-CST-JTDL](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A 
-| **程序设计基础<br />Computer Programming Fundamentals**      | 24Fall   | [**[THU-CST-FOP](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)**] | [**[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)**] |
-| **计算机程序设计基础<br />Introduction to Programming**      | 24Spr | [**[THU-CST-ICP](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**] | [**[GameUNO](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)**] |
-| **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 25Spr | [**[THU-CST-OOP](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**] | [**[OOP-project](https://github.com/wannabeyourfriend/OOP-project)**] |
-| **基于Linux的C++<br />Linux-based C++**            | 24Sum | [**[THU-CST-LinuxCPP](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] | [**[server-lab](https://github.com/wannabeyourfriend/linux-cpp-server-lab)**] |
-| **计算机科学基础<br />Fundamentals of Computer Science**   | 23Fall   |[**[THU-CST-FCS](https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall)**] | N/A |
-| **离散数学（1）<br />Discrete Mathematics (1)**                | 24Fall   | [**[THU-CST-DM1](https://github.com/wannabeyourfriend/THU-CST-DM1-2024fall)**] | [**[Wanghao-lab](https://github.com/wannabeyourfriend/Wanghao-algorithm-Lab)**] |
-| **离散数学（2）<br />Discrete Mathematics (2)**                | 25Spr | [**[THU-CST-DM2](https://github.com/wannabeyourfriend/THU-CST-DM2-2025spring)**] | N/A |
-| **数据结构<br />Data Structures** | N/A | [**[PKU-EECS-DSA-self-learn](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] | N/A |
-| **概率论<br />Elementary Probability Theory** | 24Fall | [**[THU-TCSS-PROB](https://github.com/wannabeyourfriend/THU-TCSS-Prob-2024fall)**]| N/A |
-| **统计推断<br />Statistical Inference**                    | 24Fall | [**[THU-TCSS-SI](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**] | N/A |
+# 👋 Hi, I’m Zixuan Wang
 
+- 🌱 I’m a second-year undergraduate student at Tsinghua University majoring in **Basic Science of Mathematics and Physics**, with a minor in **Computer Science and Technology**.  
+- 🔬 My research interests lie in **Large Language Models (LLMs)**, **Artificial General Intelligence (AGI)**, and **Robotics**.  
+- 🌐 [Personal Page](https://wannabeyourfriend.github.io)  
+- 📫 Contact: `wang-zx23@mails.tsinghua.edu.cn`  
 
+---
 
+## 📚 Course Assignments & Project Index
 
-<!---
-wannabeyourfriend/wannabeyourfriend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Artificial Intelligence & Machine Learning
+| Course Name                                      | Term   | Assignments / Homework                                                                 | Project                                                                 |
+| ------------------------------------------------ | ------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Artificial Intelligence Introduction**                      | 25Spr  | [**[THU-CST-IAI](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]       | N/A                                                                     |
+| **Deep Learning**                                | 25Spr  | [**[THU-DL-IIIS](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]       | N/A                                                                     |
+| **Deep Reinforcement Learning**                  | 25Spr  | [**[THU-IIIS-DRL](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring)**]     | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoReasoner)**]   |
+| **Embodied Artificial Intelligence**             | 25Spr  | [**[PKU-EECS-EAI](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]     | N/A                                                                     |
+| **Computer Vision**                              | 25Spr  | [**[THU-EE-IIIS-CV](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | [**[EgoHOI](https://github.com/wannabeyourfriend/EgoHOI)**]             |
+| **3D Visual Computing**                          | 25Spr  | [**[THU-IIIS-3DV](https://github.com/wannabeyourfriend/THU-IIIS-3DV-2025spring)**]     | [**[3Ddiffusion](https://github.com/wannabeyourfriend/3D-Visual-Computing-Project)**] |
+| **Computer Graphics**                            | 25Spr  | [**[THU-CST-CG](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]         | [**[Jittor-Competition](https://github.com/wannabeyourfriend/Jitter-5th-human-skeleton-prediction-track)**] |
+| **Intersection of Deep Learning and Graphics**   | 24Sum  | [**[THU-CST-JTDL](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]     | N/A                                                                     |
+
+---
+
+### 📐 Mathematics & Theoretical Foundations
+| Course Name                          | Term   | Assignments / Homework                                                                 | Project                                                                 |
+| ------------------------------------ | ------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Discrete Mathematics (1)**         | 24Fall | [**[THU-CST-DM1](https://github.com/wannabeyourfriend/THU-CST-DM1-2024fall)**]         | [**[Wanghao-Lab](https://github.com/wannabeyourfriend/Wanghao-algorithm-Lab)**] |
+| **Discrete Mathematics (2)**         | 25Spr  | [**[THU-CST-DM2](https://github.com/wannabeyourfriend/THU-CST-DM2-2025spring)**]       | N/A                                                                     |
+| **Elementary Probability Theory**    | 24Fall | [**[THU-TCSS-Prob](https://github.com/wannabeyourfriend/THU-TCSS-Prob-2024fall)**]     | N/A                                                                     |
+| **Statistical Inference**            | 24Fall | [**[THU-TCSS-SI](https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall)**]         | N/A                                                                     |
+
+---
+
+### 💻 Programming & Systems
+| Course Name                          | Term   | Assignments / Homework                                                                 | Project                                                                 |
+| ------------------------------------ | ------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Object-Oriented Programming**      | 25Spr  | [**[THU-CST-OOP](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**]       | [**[OOP-project](https://github.com/wannabeyourfriend/OOP-project)**]   |
+| **Computer Programming Fundamentals**| 24Fall | [**[THU-CST-FOP](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)**]         | [**[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)**] |
+| **Introduction to Programming**      | 24Spr  | [**[THU-CST-ICP](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**]       | [**[GameUNO](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)**] |
+| **Linux-based C++**                  | 24Sum  | [**[THU-CST-LinuxCPP](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] | [**[server-lab](https://github.com/wannabeyourfriend/linux-cpp-server-lab)**] |
+| **Fundamentals of Computer Science** | 23Fall | [**[THU-CST-FCS](https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall)**]         | N/A                                                                     |
+| **Data Structures (Self-learning)**  | 25Win  | [**[PKU-EECS-DSA](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] | N/A |
+
+---
+
+✨ This profile highlights coursework, assignments, and projects that reflect my journey through **AI research**, **mathematical foundations**, and **computer science practice**.  
