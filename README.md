@@ -3,8 +3,8 @@
 - 📫 My email:`wang-zx23@mails.tsinghua.edu.cn`
 - course index:
 ##### Related Course-Assignments and projects Index
-| Course Name                                                           | Time        | PA&HW                                                                                       | Project |
-| ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- | ------| 
+| Course Name                                                           | Time        | PA&HW | Project
+| ------------------------------------------------------------          | ----------- | ------------------------------------------------------------                                          | ------------- |
 | **深度学习<br />Deep Learning**                                       | 2025 Spring  | [**[THU-DL-QZC-IIIS-2025spring](https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring)**]      | N/A | 
 | **深度强化学习<br />Deep Reinforcement Learning**                     | 2025 Spring | [**[THU-IIIS-DRL-2025spring](https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring.git)**]     | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoReasoner)**] | 
 | **高等计算机视觉<br />Computer Vision**                               | 2025 Spring | [**[THU-EE-PKU-EECS-CV-2025spring](https://github.com/wannabeyourfriend/THU-EE-IIIS-CV-2025spring)**] | [**[EgoReasoner](https://github.com/wannabeyourfriend/EgoHOI)**] | 
