@@ -17,7 +17,7 @@
 
 | Course Name                                                  | Time        | Repository Link                                              | Project |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | --- |
-| **程序设计基础<br />Computer Programming Fundamentals**      | 24fall   | [**[THU-CST-FOP-2024fall](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)**] | [**[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)**] |
+| **程序设计基础<br />Computer Programming Fundamentals**      | 24Fall   | [**[THU-CST-FOP-2024fall](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)**] | [**[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)**] |
 | **计算机程序设计基础<br />Introduction to Programming**      | 24Spr | [**[THU-CST-ICP-2024spring](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**] | [**[GameUNO](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)**] |
 | **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 25Spr | [**[THU-CST-OOP-2025spring](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**] | [**[OOP-project](https://github.com/wannabeyourfriend/OOP-project)**] |
 | **基于Linux的C++<br />Linux-based C++**            | 24Sum | [**[THU-CST-LinuxCPP-2024summer](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] | [**[server-lab](https://github.com/wannabeyourfriend/linux-cpp-server-lab)**] |
