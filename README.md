@@ -42,7 +42,3 @@
 | **Linux-based C++**                  | 24Sum  | [**[THU-CST-LinuxCPP](https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer)**] | [**[server-lab](https://github.com/wannabeyourfriend/linux-cpp-server-lab)**] |
 | **Fundamentals of Computer Science** | 23Fall | [**[THU-CST-FCS](https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall)**]         | N/A                                                                     |
 | **Data Structures (Self-learning)**  | 25Win  | [**[PKU-EECS-DSA](https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn)**] | N/A |
-
----
-
-✨ This profile highlights coursework, assignments, and projects that reflect my journey through **AI research**, **mathematical foundations**, and **computer science practice**.  
