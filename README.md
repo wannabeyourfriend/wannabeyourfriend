@@ -12,11 +12,7 @@
 | **计算机图形学基础<br />Computer Graphics**                           | 25Spr | [**[THU-CST-CG](https://github.com/wannabeyourfriend/THU-CST-CG-2025spring)**]             | [**[Jittor-Competition](https://github.com/wannabeyourfriend/Jitter-5th-human-skeleton-prediction-track)**]  | 
 | **具身智能导论<br />Embodied Artificial Intelligence**                | 25Spr | [**[PKU-EECS-EAI](https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring)**]          | N/A | 
 | **人工智能导论<br />Artificial Intelligence**                               | 2025Spr | [**[THU-CST-IAI-IIIS-AIP](https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring)**]   | N/A | 
-| **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 24Sum | [**[THU-CST-JTDL](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A | 
-
-
-| Course Name                                                  | Time        | Repository Link                                              | Project |
-| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ | --- |
+| **图形学与深度学习交叉实践<br />Intersection of Deep Learning and Computer Graphics** | 24Sum | [**[THU-CST-JTDL](https://github.com/wannabeyourfriend/THU-CST-JTDL-2024summer)**]         | N/A 
 | **程序设计基础<br />Computer Programming Fundamentals**      | 24Fall   | [**[THU-CST-FOP](https://github.com/wannabeyourfriend/THU-CST-FOP-2024fall)**] | [**[Human-Resource-Machine](https://github.com/wannabeyourfriend/Human-Resource-Machine)**] |
 | **计算机程序设计基础<br />Introduction to Programming**      | 24Spr | [**[THU-CST-ICP](https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring)**] | [**[GameUNO](https://github.com/wannabeyourfriend/UNO-card-game-EasyX)**] |
 | **面向对象程序设计基础<br />Foundation of Object-Oriented Programming** | 25Spr | [**[THU-CST-OOP](https://github.com/wannabeyourfriend/THU-CST-OOP-2025spring)**] | [**[OOP-project](https://github.com/wannabeyourfriend/OOP-project)**] |
