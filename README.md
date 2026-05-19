@@ -1,4 +1,5 @@
 Building at the intersection of autonomous AI systems and human-centered intelligence.
-* 🔁 Self-evolving agentic harness：LLM-driven deep research, autonomous coding & self-improving evaluation scaffolds
-* 🧠 Human-centered AI：personalization, alignment, and user modeling
-* 🌍 Real-world AI use：egocentric understanding, human taxonomy, behavioral grounding
+* 🔁 Self-evolving agentic harness: LLM-driven deep research, autonomous coding & self-improving evaluation scaffolds
+* 🧠 Human-centered AI: personalization, theory of mind, alignment, and user modeling
+* 🎯 Reinforcement Learning: RLVR-driven training pipelines
+* 🌍 Real-world huamn-AI collaborate and interaction: egocentric understanding, gaze estimation, human behavioral grounding
