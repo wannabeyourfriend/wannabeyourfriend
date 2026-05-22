@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=800&lines=Building+at+the+intersection+of+autonomous+agents+%26+human-centered+AI.;Designing+agentic+LLMs+for+real-world+human-AI+collaboration.;Exploring+post-training%2C+personalization%2C+and+interactive+intelligence." alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi, I'm Zixuan (Alex) Wang </h1>
+<h1 align="center">Hi, I'm Zixuan (Alex) Wang, I am ...</h1>
 <p align="center">
   <a href="mailto:zixuan.alex.wang@outlook.com">
     <img src="https://img.shields.io/badge/Email-zixuan.alex.wang%40outlook.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=800&lines=Building+at+the+intersection+of+autonomous+agents+%26+human-centered+AI.;Designing+agentic+LLMs+for+real-world+human-AI+collaboration.;Exploring+post-training%2C+personalization%2C+and+interactive+intelligence." alt="Typing SVG" />
+</p>
+
 
 ## Research Compass
 
@@ -26,7 +25,7 @@ I am interested in building intelligent systems that can reason, adapt, and coll
       <p align="center">
         Test-Time Scaling<br/>
         Deep Research<br/>
-        Agentic Coding
+        Agentic Long Term Memory
       </p>
     </td>
     <td width="33%">
