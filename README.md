@@ -9,7 +9,8 @@
 > LLM Agentic RL · Synthetic Data Pipeline · LLM Alignment
 
 ### Human-Centered AI & Real-World Human-AI Interaction
-> LLM Personalization· Theory-of-Mind · User Modeling 
+> LLM Personalization· Theory-of-Mind · User Modeling
+
 > Human Computer Interface · Egocentric Vision · Gaze Estimation System
 
 ## Email Address
