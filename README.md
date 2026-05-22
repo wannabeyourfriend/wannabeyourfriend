@@ -3,11 +3,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Zixuan (Alex) Wang </h1>
-
-<p align="center">
-  <b>Agentic AI · LLM Post-training · Human-Centered AI</b>
-</p>
-
 <p align="center">
   <a href="mailto:zixuan.alex.wang@outlook.com">
     <img src="https://img.shields.io/badge/Email-zixuan.alex.wang%40outlook.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" />
