@@ -2,11 +2,11 @@
 
 ## Research Interests
 
-### LLM Post-training
-> LLM Agentic RL · Synthetic Data · LLM Alignment
-
 ### Agentic AI Development
 > Test Time Scaling · Deep Research · Agentic Coding
+
+### LLM Post-training
+> LLM Agentic RL · Synthetic Data Pipeline · LLM Alignment
 
 ### Human-Centered AI & Real-World Human-AI Interaction
 > LLM Personalization· Theory-of-Mind · User Modeling 
