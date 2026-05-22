@@ -7,7 +7,7 @@
 > Personalization · Theory of Mind · Alignment · User Modeling
 
 ### 🎯 Reinforcement Learning
-> RLVR-driven training pipelines (GRPO / VeRL)
+> LLM RLVR post-training
 
 ### 🌍 Real-World Human-AI Interaction
 > Egocentric understanding · Gaze estimation · Behavioral grounding
