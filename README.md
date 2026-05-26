@@ -21,7 +21,7 @@ I am interested in building intelligent systems that can reason, adapt, and coll
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">Agentic AI Development</h3>
+      <h3 align="center">AI Agent</h3>
       <p align="center">
         Test-Time Scaling<br/>
         Deep Research<br/>
